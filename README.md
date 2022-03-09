@@ -2,7 +2,7 @@
 
 The implementation of Uncertainty Inspired Underwater Image Enhancement
 
-Download the pretrained model [pre-trained model](https://drive.google.com/file/d/1rkGm0l826ybOk_RSJNSZwbKpJc_z2ZkU/view?usp=sharing) and put it in ./weights.
+Download the pretrained model [pretrained model](https://drive.google.com/file/d/1rkGm0l826ybOk_RSJNSZwbKpJc_z2ZkU/view?usp=sharing) and put it in ./weights.
 
 Run Test_MC.py and Test_MP.py to obtain the enhancement results.
 
