@@ -5,7 +5,7 @@ import time
 import argparse
 from torch.autograd import Variable
 from torch.utils.data import DataLoader
-from PUIENet_MC import mynet
+from PUIENet_MP import mynet
 from data import get_eval_set
 
 
