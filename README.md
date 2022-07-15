@@ -1,7 +1,7 @@
 # Uncertainty Inspired Underwater Image Enhancement (ECCV 2022)([Paper]())
 The Pytorch Implementation of ''Uncertainty Inspired Underwater Image Enhancement''. 
 
-<div align=center><img src="img/1.png" height = "60%" width = "70%"/></div>
+<div align=center><img src="img/1.png" height = "40%" width = "40%"/></div>
 
 ## Introduction
 In this project, we use Ubuntu 16.04.5, Python 3.7, Pytorch 1.7.1 and CUDA 10.2. 
