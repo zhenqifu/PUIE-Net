@@ -34,4 +34,13 @@ python Train.py
 
 If you find PUIE-Net is useful in your research, please cite our paper:
 
+```
+@inproceedings{Fu_2022, 
+	title={Uncertainty Inspired Underwater Image Enhancement}, 
+	author={Fu, Zhenqi and Wang, Wu and Huang, Yue and Ding, Xinghao and Ma, Kai-Kuang}, 
+	booktitle={European Conference on Computer Vision (ECCV 2022)},
+	year={2022}, 
+	pages={465--482},	
+}
+```
 
